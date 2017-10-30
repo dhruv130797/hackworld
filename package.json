@@ -1,0 +1,22 @@
+{
+  "name": "hackworld",
+  "version": "1.0.0",
+  "description": "Hacktoberfest Commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohmishra/hackworld.git"
+  },
+  "keywords": [
+    "hacktoberfest"
+  ],
+  "author": "Rohan, Dhruv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohmishra/hackworld/issues"
+  },
+  "homepage": "https://github.com/rohmishra/hackworld#readme"
+}
